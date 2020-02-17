@@ -1,0 +1,15 @@
+.cv {
+    height: 1024px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    margin: auto;
+    content: "";
+    display: table;
+    clear: both;
+}

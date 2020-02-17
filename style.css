@@ -1,10 +1,12 @@
 .cv {
-    height: 1024px;
+    max-width: 1024px;
+    margin: auto;
 }
 
 .column {
     float: left;
     width: 50%;
+    padding: auto;
 }
 
 .row:after {
@@ -12,4 +14,12 @@
     content: "";
     display: table;
     clear: both;
+}
+
+.responsibilities .technologies{
+    text-align: left;
+}
+
+.connection {
+    list-style-type: none;
 }

@@ -1,0 +1,25 @@
+.cv {
+    max-width: 1024px;
+    margin: auto;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: auto;
+}
+
+.row:after {
+    margin: auto;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.responsibilities .technologies{
+    text-align: left;
+}
+
+.connection {
+    list-style-type: none;
+}

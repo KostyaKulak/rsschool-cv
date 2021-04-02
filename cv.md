@@ -98,7 +98,7 @@ English B1, continius communication with customer on real projects, IELTS 5.5
 ## Computer Skills
 ```
 Test automation frameworks: TestNG, JUnit, RobotFramework;
-Web development frameworks: Spring Boot, React, Express Js;
+Web development frameworks: Spring Boot, React, Express Js, NestJS;
 Network communication libraries: Retrofit 2, OkHttpClient, REST-assured, Spring RestTemplate, curl,
 XMLHttpRequest;
 Web service testing tools: Postman, Insomnia;

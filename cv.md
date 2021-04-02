@@ -93,7 +93,7 @@ Specialty Computer Science
 ```
 ## Languages
 ```
-English B1, had experience of communication with customer, IELTS 5.
+English B1, continius communication with customer on real projects, IELTS 5.5
 ```
 ## Computer Skills
 ```
